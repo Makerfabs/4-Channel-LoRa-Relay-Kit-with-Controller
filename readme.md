@@ -51,13 +51,17 @@ Processor: ATmega328P(3.3V, 8 MHz)
 ```
 
 - Install Arduino AVR Board v1.8.6
-![arduino avr board](md_pic/arduino avr board.jpg)
+
+![avrboard](md_pic/arduino avr board.jpg)
 
 - Install RadioLib v4.6.0
+
 ![radiolib](md_pic/radiolib.jpg)
 
 - Set the parameters of the tools as shown in the picture below.
+
 ![board](md_pic/board.jpg)
 
 - Upload the code
+
 ![upload](md_pic/upload.jpg)
