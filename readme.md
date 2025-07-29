@@ -21,11 +21,18 @@ Each remote controller has a unique ID assigned to control its corresponding rel
 ### How to Pair?
 
 - Short the RX pin and GND of the **4-Channel Lora Relay** using tweezers or a jumper wire
-- Press the reset button to enter pairing mode. 
+
+![pair1](md_pic/pair1.jpg)
+
+- Powered by 5–12V DC input.
+- Press the reset button to enter pairing mode.
+
+![pair2](md_pic/pair2.jpg)
+
 - Press any button on the **4-channel Lora remote controller**. 
 If the remote's green indicator light flashes briefly, it means the pairing was successful. 
 
-![pair](md_pic/pair.jpg)
+![pair3](md_pic/pair3.jpg)
 
 After pairing, the remote can be used to control the corresponding relay channel.
 
